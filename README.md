@@ -1,4 +1,4 @@
 # 🅉🄴🅁🄾🄱🅄🄶 🅁🄴🄿🄾
 🄰🄳🅅🄰🄽🄲🄴🄳 🅆🄷🄰🅃🅂🄰🄿🄿 🄱🄾🅃 🄲🄾🄳🄴🄳 🄱🅈 🄽🄺🄾🅂🄸 🅃🄴🄲🄷🄽🄾🄻🄾🄶🅈
 
-![Techsync](https://files.catbox.moe/p1eh4e.jpg)
+![Techsync](https://files.catbox.moe/jt3qb1.png)
