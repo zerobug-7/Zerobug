@@ -19,7 +19,6 @@ pkg install npm -y
 pkg install git -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-pkg install yt-dlp -y
 
 echo ""
 echo "[4/8] Cloning Zerobug repo..."
