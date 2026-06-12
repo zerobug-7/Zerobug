@@ -21,7 +21,7 @@ pkg install ffmpeg -y
 pkg install imagemagick -y
 
 echo ""
-echo "[4/8] Cloning Zerobug repo..."
+echo "[4/8] Cloning zerobug repo..."
 git clone https://github.com/zerobug-7/Zerobug
 cd Zerobug
 
@@ -39,7 +39,7 @@ echo "[7/8] Patching sharp for Android..."
 grep -rl "require('sharp')" commands/ | xargs sed -i "s/const sharp = require('sharp')/let sharp; try { sharp = require('sharp') } catch(e) { sharp = null }/g"
 
 echo ""
-echo "[8/8] Setup complete! Starting bot..."
+echo "[8/8] Setup complete! starting bot..."
 echo "================================================"
 echo "        ZEROBUG BOT IS STARTING..."
 echo "================================================"
